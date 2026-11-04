@@ -1,0 +1,20 @@
+این بسته برای GitHub Pages آماده شده است.
+
+مهم: بعد از استخراج ZIP، فایل index.html را در صفحه اصلی (ریشه) مخزن GitHub قرار دهید.
+نام فایل باید دقیقاً index.html باشد؛ حروف کوچک و بدون فاصله.
+
+مراحل:
+1) در GitHub یک Repository بسازید.
+2) وارد مخزن شوید و Add file > Upload files را بزنید.
+3) فایل index.html را انتخاب و Commit changes کنید.
+4) وارد Settings > Pages شوید.
+5) در بخش Build and deployment گزینه Deploy from a branch را انتخاب کنید.
+6) Branch را روی main و Folder را روی /(root) بگذارید و Save کنید.
+7) یک تا چند دقیقه صبر کنید و آدرس سایت را از همان صفحه Pages باز کنید.
+
+در گوشی سامسونگ:
+- ZIP را با برنامه My Files / فایل‌های من استخراج کنید.
+- در GitHub از Chrome استفاده کنید و اگر آپلود سخت بود، Chrome > منوی سه‌نقطه > Desktop site را روشن کنید.
+- خود فایل ZIP را به‌جای index.html آپلود نکنید؛ ZIP را استخراج کنید و index.html را آپلود کنید.
+
+شماره واتساپ داخل فایل: 09306805034
